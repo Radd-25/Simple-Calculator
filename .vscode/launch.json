@@ -2,6 +2,13 @@
     "version": "2.0.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "Simple-Calculator_367e90ef"
+        },
+        {
             "name": "C/C++: gcc.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",
